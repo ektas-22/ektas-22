@@ -6,8 +6,8 @@ Software Developer
 
 I am a passionate software developer with a love for exploring new technologies and expressing creativity through coding and illustration.
 
-* 🌍  I'm based in Visakhapatnam, City
-* 🚀  I'm currently working on [Portfolio App](http://myportfolio.com)
+* 🌍  I'm based in Mumbai, City
+### * 🚀  I'm currently working on [Portfolio App](http://myportfolio.com)
 * 🧠  I'm learning Express.js
 * 🤝  I'm open to collaborating on Projects
 * ⚡  When I'm not coding or illustrating, you can find me binge-watching K-dramas for hours on end!
